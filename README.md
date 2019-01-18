@@ -11,6 +11,9 @@ Using real-world simulated physics that emulates how the original game is played
 * George Rincon || [grincon0](https://github.com/grincon0) || Unity + Wikitude Development
 * David Baker || [DavidDBaker](https://github.com/DavidDBaker) || Api integration + UI
 
+## Trello
+![Trello](/assets/trello.png)
+
 ## Layout
 
 ![Layout](/assets/layout.jpg)
