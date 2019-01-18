@@ -13,4 +13,4 @@ Using real-world simulated physics that emulates how the original game is played
 
 ## Layout
 
-[Layout](/assets/layout.jpg)
+!Layout](/assets/layout.jpg)
